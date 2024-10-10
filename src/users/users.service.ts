@@ -40,6 +40,7 @@ export class UsersService {
         lastname: true,
         email: true,
         isActive: true,
+        addresses: true,
   
       },
     })
